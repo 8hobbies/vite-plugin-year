@@ -1,8 +1,8 @@
-# vite-year-plugin
+# vite-plugin-year
 
-[![npm version](https://badge.fury.io/js/@8hobbies%2Fvite-year-plugin.svg)](https://badge.fury.io/js/@8hobbies%2Fvite-year-plugin)
+[![npm version](https://badge.fury.io/js/@8hobbies%2Fvite-plugin-year.svg)](https://badge.fury.io/js/@8hobbies%2Fvite-plugin-year)
 
-[GitLab](https://gitlab.com/8hobbies/vite-year-plugin) | [GitHub](https://github.com/8hobbies/vite-year-plugin)
+[GitLab](https://gitlab.com/8hobbies/vite-plugin-year) | [GitHub](https://github.com/8hobbies/vite-plugin-year)
 
 A [Vite][] plugin that inserts the current year to the html file during build. Useful for adding a copyright year.
 
@@ -11,13 +11,13 @@ A [Vite][] plugin that inserts the current year to the html file during build. U
 Install with
 
 ```sh
-npm install --save-dev '@8hobbies/vite-year-plugin'
+npm install --save-dev '@8hobbies/vite-plugin-year'
 ```
 
 In `vite.config.ts`, add:
 
 ```typescript
-import yearPlugin from "@8hobbies/vite-year-plugin";
+import yearPlugin from "@8hobbies/vite-plugin-year";
 
 // ...
 
@@ -58,6 +58,6 @@ OF THIS SOFTWARE.
 ```
 
 [Vite]: https://vite.dev
-[issue tracker]: https://github.com/8hobbies/vite-year-plugin/issues
-[merge request]: https://github.com/8hobbies/vite-year-plugin/pulls
-[source code]: https://github.com/8hobbies/vite-year-plugin
+[issue tracker]: https://github.com/8hobbies/vite-plugin-year/issues
+[merge request]: https://github.com/8hobbies/vite-plugin-year/pulls
+[source code]: https://github.com/8hobbies/vite-plugin-year
