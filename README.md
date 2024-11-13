@@ -68,5 +68,5 @@ OF THIS SOFTWARE.
 
 [Vite]: https://vite.dev
 [issue tracker]: https://github.com/8hobbies/vite-plugin-year/issues
-[merge request]: https://github.com/8hobbies/vite-plugin-year/pulls
+[pull request]: https://github.com/8hobbies/vite-plugin-year/pulls
 [source code]: https://github.com/8hobbies/vite-plugin-year
