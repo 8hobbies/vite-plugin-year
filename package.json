@@ -1,7 +1,7 @@
 {
   "name": "@8hobbies/vite-plugin-year",
-  "version": "1.0.0",
-  "description": "A Vite plugin that inserts the current year to the html file during build. Useful for adding a copyright year.",
+  "version": "1.0.1",
+  "description": "A Vite plugin that inserts the current year to the HTML file during build. Useful for adding a copyright year to the HTML file.",
   "main": "dist/index.js",
   "type": "module",
   "types": "dist/index.d.ts",
@@ -26,7 +26,8 @@
     "url": "git+https://github.com/8hobbies/vite-plugin-year.git"
   },
   "keywords": [
-    "vite"
+    "vite",
+    "vite-plugin"
   ],
   "author": "8 Hobbies, LLC",
   "license": "0BSD",

@@ -4,7 +4,8 @@
 
 [GitLab](https://gitlab.com/8hobbies/vite-plugin-year) | [GitHub](https://github.com/8hobbies/vite-plugin-year)
 
-A [Vite][] plugin that inserts the current year to the html file during build. Useful for adding a copyright year.
+A [Vite][] plugin that inserts the current year to the html file during build. Useful for adding a
+copyright year to the HTML file.
 
 ## Usage
 
@@ -30,6 +31,14 @@ export default defineConfig({
   ],
 });
 ```
+
+In `index.html`, add:
+
+```html
+<footer><p>&copy; __YEAR__ My Name</p></footer>
+```
+
+Upon build, this plugin replaces `__YEAR__` with the current year.
 
 ## Contributing
 
