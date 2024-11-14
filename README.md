@@ -35,7 +35,7 @@ export default defineConfig({
 In `index.html`, add:
 
 ```html
-<footer><p>&copy; __YEAR__ My Name</p></footer>
+<footer><p>Copyright &copy; __YEAR__ My Name</p></footer>
 ```
 
 Upon build, this plugin replaces `__YEAR__` with the current year.
