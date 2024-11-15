@@ -9,7 +9,6 @@
 # DAMAGESWHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN ANACTION OF CONTRACT,
 # NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OFOR IN CONNECTION WITH THE USE OR PERFORMANCE
 # OF THIS SOFTWARE.
-#
 
 name: Publish Dry Run
 
@@ -21,12 +20,4 @@ on:
 
 jobs:
   run:
-    name: Publish Dry Run
-    runs-on: ubuntu-24.04
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "22.x"
-      - run: npm ci
-      - run: npm publish --dry-run
+    uses: 8hobbies/workflows/.github/workflows/npm-publish-dry-run.yml@4d06784788e51fa7cf79a34e4ec23283067db5a8
