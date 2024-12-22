@@ -41,16 +41,16 @@
     "@types/eslint__js": "^8.42.3",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.2",
-    "globals": "^15.13.0",
+    "globals": "^15.14.0",
     "prettier": "^3.4.2",
     "rimraf": "^6.0.1",
     "typescript": "~5.7.2",
     "vitest": "^2.1.6"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.18.0",
-    "@typescript-eslint/utils": "^8.18.0",
-    "eslint": "^9.16.0",
-    "typescript-eslint": "^8.18.0"
+    "@typescript-eslint/eslint-plugin": "^8.18.1",
+    "@typescript-eslint/utils": "^8.18.1",
+    "eslint": "^9.17.0",
+    "typescript-eslint": "^8.18.1"
   }
 }
