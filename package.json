@@ -40,17 +40,17 @@
     "@types/eslint": "^9.6.1",
     "@types/eslint__js": "^8.42.3",
     "@types/jest": "^29.5.14",
-    "@types/node": "^22.10.7",
+    "@types/node": "^22.10.10",
     "globals": "^15.14.0",
     "prettier": "^3.4.2",
     "rimraf": "^6.0.1",
     "typescript": "~5.7.3",
-    "vitest": "^3.0.2"
+    "vitest": "^3.0.4"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.20.0",
-    "@typescript-eslint/utils": "^8.20.0",
-    "eslint": "^9.18.0",
-    "typescript-eslint": "^8.20.0"
+    "@typescript-eslint/eslint-plugin": "^8.21.0",
+    "@typescript-eslint/utils": "^8.21.0",
+    "eslint": "^9.19.0",
+    "typescript-eslint": "^8.21.0"
   }
 }
