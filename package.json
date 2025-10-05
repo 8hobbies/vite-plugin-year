@@ -47,9 +47,9 @@
     "vitest": "3.2.4"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.44.0",
-    "@typescript-eslint/utils": "^8.44.0",
+    "@typescript-eslint/eslint-plugin": "^8.44.1",
+    "@typescript-eslint/utils": "^8.44.1",
     "eslint": "^9.36.0",
-    "typescript-eslint": "^8.44.0"
+    "typescript-eslint": "^8.44.1"
   }
 }
