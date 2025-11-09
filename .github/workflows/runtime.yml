@@ -20,4 +20,4 @@ on:
 
 jobs:
   test:
-    uses: 8hobbies/workflows/.github/workflows/npm-runtime.yml@44f843881a46dc28b2d66c154b1231649b43498a
+    uses: 8hobbies/workflows/.github/workflows/npm-runtime.yml@23566a16aca822bf91e20bf57b5715869e181339
