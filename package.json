@@ -42,14 +42,14 @@
     "@types/node": "24.10.1",
     "globals": "16.5.0",
     "prettier": "3.6.2",
-    "rimraf": "6.1.0",
+    "rimraf": "6.1.2",
     "typescript": "5.9.3",
-    "vitest": "4.0.9"
+    "vitest": "4.0.13"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.46.4",
-    "@typescript-eslint/utils": "^8.46.4",
+    "@typescript-eslint/eslint-plugin": "^8.47.0",
+    "@typescript-eslint/utils": "^8.47.0",
     "eslint": "^9.39.1",
-    "typescript-eslint": "^8.46.4"
+    "typescript-eslint": "^8.47.0"
   }
 }
