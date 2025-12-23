@@ -39,17 +39,17 @@
     "@8hobbies/eslint-conf-baseline": "6.0.0",
     "@types/eslint": "9.6.1",
     "@types/jest": "30.0.0",
-    "@types/node": "24.10.1",
+    "@types/node": "24.10.4",
     "globals": "16.5.0",
     "prettier": "3.7.4",
     "rimraf": "6.1.2",
     "typescript": "5.9.3",
-    "vitest": "4.0.15"
+    "vitest": "4.0.16"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": "^8.48.1",
-    "@typescript-eslint/utils": "^8.48.1",
-    "eslint": "^9.39.1",
-    "typescript-eslint": "^8.48.1"
+    "@typescript-eslint/eslint-plugin": "^8.50.0",
+    "@typescript-eslint/utils": "^8.50.0",
+    "eslint": "^9.39.2",
+    "typescript-eslint": "^8.50.0"
   }
 }
