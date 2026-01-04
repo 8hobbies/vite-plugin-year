@@ -36,7 +36,7 @@
   },
   "homepage": "https://8hob.io/posts/add-copyright-year-vite-html/",
   "devDependencies": {
-    "@8hobbies/eslint-conf-baseline": "6.0.0",
+    "@8hobbies/eslint-conf-baseline": "7.0.0",
     "@types/eslint": "9.6.1",
     "@types/jest": "30.0.0",
     "@types/node": "24.10.4",
