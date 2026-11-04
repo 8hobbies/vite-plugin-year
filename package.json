@@ -39,7 +39,7 @@
     "@8hobbies/eslint-conf-baseline": "7.0.0",
     "@types/eslint": "9.6.1",
     "@types/jest": "30.0.0",
-    "@types/node": "24.12.4",
+    "@types/node": "26.6.6",
     "globals": "17.6.0",
     "prettier": "3.8.3",
     "rimraf": "6.1.3",
